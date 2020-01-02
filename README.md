@@ -8,7 +8,11 @@
 
 📈 Demo Fathom Dashboard: https://app.usefathom.com/share/nymdtplm/gatsby-starter-business
 
-🤝 Affiliate link for \$10 of off your first month of Fathom Analytics:
+🤝 Affiliate link for \$10 of off your first month of Fathom Analytics: https://usefathom.com/ref/HG492L
+
+---
+
+:point_down::point_down: Cloned from this Repo! Thanks to @v4iv for the original code! :pray: :point_down::point_down:
 
 A [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org) powered generic business website.
 
