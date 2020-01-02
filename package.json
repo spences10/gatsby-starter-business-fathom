@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-business",
+  "name": "gatsby-starter-business-fathom",
   "version": "2.1.2",
-  "description": "Gatsby Business Website Starter",
+  "description": "Gatsby Business Website Starter with Fathom Analytics",
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
@@ -15,7 +15,7 @@
   "repository": "https://github.com/v4iv/gatsby-starter-business",
   "author": "Vaibhav Sharma <vaibhavsharmaatwork@gmail.com>",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "remarkConfig": {
     "plugins": [
       "remark-preset-lint-recommended"
