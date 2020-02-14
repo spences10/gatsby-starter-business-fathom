@@ -51,7 +51,7 @@
     "netlify-cms-app": "2.11.16",
     "node-sass": "4.13.1",
     "prop-types": "15.7.2",
-    "query-string": "6.10.1",
+    "query-string": "6.11.0",
     "react": "16.12.0",
     "react-disqus-comments": "1.4.0",
     "react-dom": "16.12.0",
